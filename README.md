@@ -15,7 +15,7 @@ Data set: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20H
 Analysis Script                          
 ---------------
 
-`run_analysis.R`: this script downloads the dataset, processes and tidies it for analysis then creates a tidy summary dataset for the final result.
+**run_analysis.R:** this script downloads the dataset, processes and tidies it for analysis then creates a tidy summary dataset for the final result.
 
 
 1. Merges the training and the test sets to create one data set.
@@ -36,4 +36,4 @@ This is a  final tidy dataset. Presents the mean of each measurement variable fo
 Code Book
 ---------
 
-`CodeBook.md`: describes the variables, the data, and any transformations or work that you performed to clean up the data
+**CodeBook.md:** describes the variables, the data, and any transformations or work that you performed to clean up the data
